@@ -1,0 +1,30 @@
+html,body{
+    height:100%;
+    width:100%;
+}
+.button{
+    padding:20px;
+    margin:0 3px;
+    border:2 px solid black;
+    border-radius:15px;
+    cursor:pointer;
+    width: 65px;
+}
+.row{
+    margin:10px 0;
+}
+.row input{
+margin:0px;
+padding:10px 20px;
+border:2 px solid black;
+border-radius:20px;
+font-size:30px;
+font-family:italic;
+width:30%;
+}
+.width{
+    width: 33px;
+}
+.input{
+    align-items: center;
+}
